@@ -13,7 +13,6 @@ pretrained models using 163M data presented in "Various Errors Improve Neural Gr
 	- [3.pt](https://drive.google.com/file/d/1i9qy4TpEZkDHfcWJ70LRjHKnLiJf8SWC/view?usp=sharing)
 	- [4.pt](https://drive.google.com/file/d/1N0k7RaqOQcOnlVzOvb1mvBUX8Z9sZ-E6/view?usp=sharing)
 	- [5.pt](https://drive.google.com/file/d/1Ar38-lweGRGmzxtaqWi1a8HyGdU_jCVD/view?usp=sharing)
-	- 
 
 - data-bin/dict.{src,trg}.txt
 	- vocabulary of fairseq models
